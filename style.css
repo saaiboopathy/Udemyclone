@@ -191,8 +191,8 @@
 .course-card img {
     width: 100%;
     height: 50%;
-    object-fit: cover;
-    padding: 5px auto;
+    
+    
 }
 
 .topicsection {
@@ -266,7 +266,7 @@
     }
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:600px) {
     .course-card {
         flex-basis: 45%;
     }
